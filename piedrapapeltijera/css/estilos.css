@@ -1,5 +1,5 @@
 body {
-    /* Estilo general del cuerpo de la página */
+    /* Estilo general de la página */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -45,8 +45,7 @@ h2 {
     text-align: center;
 }
 
-.form-group {
-    /* Contenedor de cada grupo de formulario */
+.form1 {
     margin-bottom: 20px;
 }
 
@@ -125,7 +124,7 @@ button:hover {
     text-align: center;
 }
 
-.game-icon {
+.iconojue {
     /* Estilo de los íconos de las opciones */
     font-size: 40px;
     background-color: rgba(255, 255, 255, 0.2);
@@ -139,7 +138,7 @@ button:hover {
     transition: transform 0.3s;
 }
 
-.boton:hover .game-icon {
+.boton:hover .iconojue {
     /* Efecto hover en los íconos de las opciones */
     transform: scale(1.1);
     background-color: rgba(255, 255, 255, 0.3);
